@@ -1,0 +1,15 @@
+list
+sempre que for fo preciso modificar objetos de uma lista usa-se o exemplo [1:2]
+Para insirirmos objetos em uma lista °função insert();e °função append().
+:variável.append(objeto)Sempre que tivermos 2 lista, para unir uma a outra utiliza-se:x.ext
+os objtos de y serão todos adicionados ao final da list x
+Para remover objetos da lista podemos escolher entre:  Funçaõ  remove(); função pop(); palavra reservada del; e função clear().
+OBS: Ordem crescente=direta; Ordem descrescente= inversa
+função sort(), para ordenação
+A função reverse() para inverter uma lista, como se fosse um "espelhamento" dela.
+As funções copy()e list() inserem todos os objetos de uma  lista dentro de uma nova lista criada, mas comsintazes diferentes.
+°Novalista=listaexistente.copy()
+°Novalista=lista(listaexistente)
+Verificar quantas vezes um objeto ocorre dentro de uma lista: variavel.count(objeto)
+Um intervalo é definido por: °um valor inicial; °Um Valor final; e °Um Valor de passo.
+range(inicio,fim,passo)
